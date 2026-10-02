@@ -1,15 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img src="banner-light.svg" width="100%" alt="Arshath Hussain, backend and platform engineer at Oracle. Java, Spring Boot, Kafka, Kubernetes, Oracle Cloud.">
+  <img src="banner-light.svg" width="100%" alt="Arshath Hussain, backend and platform engineer. Java, Spring Boot, Kafka, Kubernetes, Docker.">
 </picture>
 
-I build backend services and the platforms they run on.
+I build backend services and the platforms they run on: APIs and event-driven systems in **Java and Spring Boot**, shipped with **Docker, Kubernetes and CI/CD**.
 
-At **Oracle** I own environment buildouts and upgrades across **60+ customer and internal environments** on Oracle Cloud Infrastructure: provisioning Kubernetes clusters, deploying applications, running schema upgrades and data backfills, and getting each environment ready for production. When a pod won't start or a GoldenGate replication stalls, I trace it back to the cause and get delivery moving again.
-
-Before that, at **WAVCOM Technology**, I built Java and Spring Boot backends for telecom systems, including a Kafka pipeline that keeps call records in sync across network nodes and **cut update latency by about 70%**.
-
-Right now I'm going deeper on platform engineering: CI/CD, containers, Kubernetes and infrastructure as code.
+I enjoy the whole path from a commit to a healthy service in production, and I'm currently going deeper on platform engineering: containers, Kubernetes, cloud infrastructure and infrastructure as code.
 
 ## Featured projects
 
@@ -54,8 +50,6 @@ Also here: **[DecorGenie](https://github.com/Arshath1470/decorgenie)**, an AI in
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-1E293B?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=white)
-![GoldenGate](https://img.shields.io/badge/GoldenGate-1E293B?style=flat-square)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-1E293B?style=flat-square&logo=opensearch&logoColor=white)
 
 **Frontend**&nbsp;
 ![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=white)
